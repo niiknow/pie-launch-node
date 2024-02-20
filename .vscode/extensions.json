@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+      "mikestead.dotenv",
+      "davidanson.vscode-markdownlint",
+      "ms-python.vscode-pylance",
+      "ms-python.black-formatter",
+      "tamasfe.even-better-toml",
+      "charliermarsh.ruff",
+      "autoDocstring"
+    ]
+  }
